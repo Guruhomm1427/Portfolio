@@ -1,6 +1,6 @@
 # Portfolio site
 
-Personal portfolio for **Gurushreeram Sureshbabu** — a static, single-page site meant for **GitHub Pages**. It presents background, skills, experience, projects, and contact information in one scrollable layout.
+This is my Personal portfolio — a static, single-page site meant for **GitHub Pages**. It presents background, skills, experience, projects, and contact information in one scrollable layout.
 
 ## What’s in this repo
 
